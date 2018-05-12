@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3072
     wikipedia: http://en.wikipedia.org/wiki/Dora_Sigerson_Shorter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30184#The-Fairy-Changeling-and-Other-Poems
 gutenberg_issued: '2009-10-05'
 gutenberg_type: Text
 identifiers:
